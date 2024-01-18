@@ -1,4 +1,5 @@
 # Analyzing-the-Pattern-Sales-between-The-Products
+To analyze the association among products bought together by customers and also to find the patterns in customer behavior based on their history of transactions.
 
 ## Overview
 Welcome to the Online Retail Sales Pattern Analysis repository! This project delves into the exploration of product associations within an online retail dataset. The primary focus is on uncovering patterns in customer behavior by analyzing products frequently purchased together. Leveraging Association Rule Mining techniques, we aim to extract valuable insights that shed light on customer preferences and purchasing trends.
